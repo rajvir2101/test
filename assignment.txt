@@ -1,0 +1,12 @@
+Starting Time:12:00am
+
+First 60 minutes:
+Designing through xml files(Create SignUp page and Welcome Screen)
+Mapping xml file with java source file
+
+Next 60 minutes:
+Create Firebase connection 
+Insertion of data into firebase database
+Show data in firebase database
+Show welcome screen with person name after successfully registered
+Apply validation on signup page
